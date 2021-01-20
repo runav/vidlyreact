@@ -32,7 +32,7 @@ const Movies = () => {
                         <th>Genre</th>
                         <th>Stock</th>
                         <th>Rate</th>
-                        <th></th>
+                        <th>Delete</th>
                     </tr>
                 </thead>
                 <tbody>
